@@ -1,6 +1,6 @@
 **Log on to codeastro.com for more projects!**
 
-**Database Name: schooligniter**
+**Database Name: nifl_codeigniter**
 
 **Developed by Rahul Prajapati**
 
